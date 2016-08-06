@@ -6,9 +6,9 @@ color:
   saturation: 0.04795656772330403
   rhythmicContrast: 0.5926800975576043
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#210200'
+    - '#D55300'
+    - '#FFFFE1'
+    - '#2C9500'
+    - '#2CE913'
 name: Team Soliz
